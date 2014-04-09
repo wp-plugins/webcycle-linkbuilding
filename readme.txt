@@ -1,6 +1,6 @@
 === Webcycle Linkbuilding ===
 Contributors: DoMirvana
-Donate link: http://www.webcycle.nl
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T4E8UARLP7E7Y
 Tags: SEO, linkbuild, linkruil, linkpartner, webcycle
 Requires at least: 3.0.1
 Tested up to: 3.8

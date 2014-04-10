@@ -12,7 +12,7 @@ License: GPL2
 function webcycle_linkbuilding_menu()
 {
 	disable_webcycle_cache();
-    add_menu_page('Webcycle Linkbuilding Options', 'Webcycle Linkbuilding', 'manage_options', 'webcycle-linkbuilding-menu', 'webcycle_linkbuilding_options');
+    $page = add_menu_page('Webcycle Linkbuilding Options', 'Webcycle Linkbuilding', 'manage_options', 'webcycle-linkbuilding-menu', 'webcycle_linkbuilding_options');
 
 	//call register settings function
 	add_action( 'admin_init', 'register_mysettings' );

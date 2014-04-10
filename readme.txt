@@ -14,7 +14,7 @@ Webcycle Linkbuilding is een Wordpress Plugin om de automatische linkplaatsing d
 
 Webcycle Linkbuilding  helpt met het verbeteren van de vindbaarheid van uw Wordpress blog of website met natuurlijke en gerelateerde backlinks. Onze tool brengt website-eigenaren samen om het gemakkelijk plaatsen van links te faciliteren.
 
-Meldt je gratis aan op Webcycle.nl (http://www.webcycle.nl/)
+Meldt je gratis aan op [Webcycle.nl](http://www.webcycle.nl/)
 
 Met de tool van Webcycle hoeft u nooit meer handmatig links te plaatsen op uw website. Het vinden van geschikte linkpartners was nog nooit zo gemakkelijk.
 
@@ -23,11 +23,11 @@ Met de tool van Webcycle hoeft u nooit meer handmatig links te plaatsen op uw we
 * Vind gerelateerde links binnen diverse categorieën
 * Werkt in combinatie met vele andere Wordpress Plugins
 
-Verbeter de vindbaarheid van uw website
+= Verbeter de vindbaarheid van uw website =
 
 Het aantal inkomende links naar uw website is nog altijd een belangrijke factor bij het bepalen van de positie van uw website in zoekmachines als Google. Hierbij is het belangrijk dat u links ontvangt vanaf websites die gerelateerd zijn aan uw website om een natuurlijk linkprofiel op te bouwen. Door uw link te plaatsen op een gerelateerde website zal ook de kans toenemen dat er op geklikt wordt.
 
-De voordelen van Webcycle
+= De voordelen van Webcycle =
 
 Omdat het natuurlijke linkbuild proces vandaag de dag een erg arbeidsintensief proces is, willen we met onze tool hier verandering in brengen. Omdat alleen geinteresseerde website en blog eigenaren zich aanmelden voor Webcycle, bent u altijd verzekerd van een snelle en efficiente linkruil. Omdat het linkbuilden via Webcycle geen technische kennis vereist is de tool ook zeer geschikt voor beginnende website & webshop eigenaren. Daarnaast bieden wij een handig overzicht van alle sites waar uw link op geplaatst is.
 

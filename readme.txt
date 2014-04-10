@@ -71,8 +71,13 @@ Iedereen kan zijn/haar website toevoegen aan de Webcycle tool. Uiteraard is een 
 
 == Screenshots ==
 
+1. Alles overzichtelijk op 1 pagina beheren.
 
 == Changelog ==
+
+= 1.2 =
+* Screenshots toegevoegd
+* Bugfixes
 
 = 1.1 =
 * Cache disabled zodat links er automatisch bij opkomen

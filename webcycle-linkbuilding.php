@@ -3,7 +3,7 @@
 Plugin Name: Webcycle Linkbuilding
 Plugin URI: http://www.webcycle.nl
 Description: Webcycle Linkbuilding is een Wordpress Plugin om de automatische linkplaatsing door de gratis Webcycle tool mogelijk te maken.
-Version: 1.3
+Version: 5.1
 Author: Switchy Media
 Author URI: http://www.webcycle.nl
 License: GPL2

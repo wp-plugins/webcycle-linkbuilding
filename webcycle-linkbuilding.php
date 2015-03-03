@@ -42,7 +42,20 @@ function webcycle_function( $atts )
 
 	if ($atts['linkbuilding'] == 'true') {
 		if (!empty($tokenId) && !empty($linkId)) {
-			$content = file_get_contents("http://www.webcycle.nl/api/{$tokenId}/{$linkId}.html");
+			$url = "http://www.webcycle.nl/api/{$tokenId}/{$linkId}.html";
+			$ch = curl_init();
+			$timeout = 5;
+			curl_setopt($ch, CURLOPT_URL, $url);
+			curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+			curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, $timeout);
+			$data = curl_exec($ch);
+			curl_close($ch);
+			$content = $data;
+
+			if (empty($content)) {
+				$content = file_get_contents($url);
+			}
+
 			return $content; 
 		}
 	} else {
@@ -67,6 +80,7 @@ function disable_webcycle_cache() {
 	$_SERVER['QUICK_CACHE_ALLOWED'] = false;
 	define('QUICK_CACHE_ALLOWED', false);
 	define('DONOTCACHEPAGE', true);
+	wp_cache_flush();
 }
 
 add_action('admin_menu','webcycle_linkbuilding_menu');

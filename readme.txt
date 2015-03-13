@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: linkbuild, linkpartner, linkruil, seo, webcycle, website optimalisatie, vindbaarheid, linkbuilding, Pagerank, Domain Authority
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 5.1
+Stable tag: 5.2
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -74,6 +74,10 @@ Iedereen kan zijn/haar website toevoegen aan de Webcycle tool. Uiteraard is een 
 1. Alles overzichtelijk op 1 pagina beheren.
 
 == Changelog ==
+
+= 5.2 =
+* Caching issue´s opgelost
+* Meerdere kleine bugs en fixxes uitgevoerd
 
 = 1.3 =
 * Validatie bugfixxed
